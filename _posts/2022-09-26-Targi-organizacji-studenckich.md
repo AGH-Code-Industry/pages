@@ -2,6 +2,8 @@
 layout: post
 title: Targi organizacji studenckich
 ---
-### Testowy post tile
+# Targi organizacji studenckich
 
-ghthtr
+Dnia 12.10.2022 odbęda się targi organizacji studenckich.
+
+Musimy tam być lol. To jest testowy post.
