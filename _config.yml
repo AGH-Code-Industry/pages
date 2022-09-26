@@ -1,6 +1,7 @@
 theme: minima
 header_pages:
   - sources.md
+show_excerpt: true
 plugins:
   - jekyll-relative-links
 relative_links:
